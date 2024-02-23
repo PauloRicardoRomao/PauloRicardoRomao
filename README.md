@@ -1,5 +1,5 @@
-- 👋 Oi, sou Paulo Ricardo, sou Técnico em Informática e desenvolvedor.
-- Possuo amplo conhecimento em Object Pascal(Delphi), SQL, HTML, CSS. Tenho base em Python, Java, JavaScript, MySQL, PHP.
+- 👋 Oi, me chamo Paulo Ricardo, sou  estudante de Análise e Desenvolvimento de Sistemas e formado como Técnico em Informática.
+- Possuo amplo conhecimento em Python, Object Pascal(Delphi), SQL Server, MySQL, HTML, CSS.
 
 <!---
 PauloRicardoRomao/PauloRicardoRomao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
