@@ -32,7 +32,7 @@ Sou desenvolvedor com foco em aplicações web e mobile, APIs e soluções perso
 
 ### Linguagens e desenvolvimento
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,objectpascal" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,pascal" />
 </p>
 
 ### Back-end
