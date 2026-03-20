@@ -14,6 +14,12 @@
   <a href="https://www.linkedin.com/in/paulo-ricardo-romão-29535316b">
     <img src="https://img.shields.io/badge/LinkedIn-Profissional-0077B5?style=for-the-badge&logo=linkedin">
   </a>
+  <a href="https://rmtisolucoesinteligentes.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfólio-Site-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://pauloricardoromao.github.io/meu-portfolio-online/">
+    <img src="https://img.shields.io/badge/Portfólio-Site-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 ---
