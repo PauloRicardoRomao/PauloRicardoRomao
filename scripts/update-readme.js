@@ -43,37 +43,6 @@ async function getAllRepos() {
   return repos.filter((repo) => !repo.fork);
 }
 
-function buildLanguageRanking(repos) {
-  const languageCount = {};
-
-  for (const repo of repos) {
-    const language = repo.language || "Sem linguagem definida";
-    languageCount[language] = (languageCount[language] || 0) + 1;
-  }
-
-  const sorted = Object.entries(languageCount).sort((a, b) => b[1] - a[1]);
-  const totalRepos = repos.length;
-
-  if (totalRepos === 0) {
-    return "Nenhum repositório público encontrado.";
-  }
-
-  const rows = sorted.map(([language, count], index) => {
-    const percent = ((count / totalRepos) * 100).toFixed(1);
-    return `| ${index + 1} | ${language} | ${count} | ${percent}% |`;
-  });
-
-  return `
-<p align="left">
-  <strong>Total de repositórios analisados:</strong> ${totalRepos}
-</p>
-
-| # | Linguagem | Repositórios | Percentual |
-|---|-----------|--------------|------------|
-${rows.join("\n")}
-`.trim();
-}
-
 function updateReadme(content, replacement) {
   const start = "<!-- LANGUAGES_SECTION_START -->";
   const end = "<!-- LANGUAGES_SECTION_END -->";
@@ -92,10 +61,9 @@ function updateReadme(content, replacement) {
 
 async function main() {
   const repos = await getAllRepos();
-  const languageSection = buildLanguageRanking(repos);
 
   const currentReadme = fs.readFileSync(README_PATH, "utf8");
-  const updatedReadme = updateReadme(currentReadme, languageSection);
+  const updatedReadme = updateReadme(currentReadme);
 
   fs.writeFileSync(README_PATH, updatedReadme);
   console.log("README atualizado com sucesso.");
