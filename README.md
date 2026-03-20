@@ -67,27 +67,6 @@ Sou desenvolvedor com foco em aplicações web e mobile, APIs e soluções perso
 
 ---
 
-## Linguagens por repositório
-
-<!-- LANGUAGES_SECTION_START -->
-<p align="left">
-  <strong>Total de repositórios analisados:</strong> 25
-</p>
-
-| # | Linguagem | Repositórios | Percentual |
-|---|-----------|--------------|------------|
-| 1 | Python | 8 | 32.0% |
-| 2 | CSS | 6 | 24.0% |
-| 3 | JavaScript | 3 | 12.0% |
-| 4 | Java | 2 | 8.0% |
-| 5 | Jupyter Notebook | 2 | 8.0% |
-| 6 | Sem linguagem definida | 2 | 8.0% |
-| 7 | TypeScript | 1 | 4.0% |
-| 8 | HTML | 1 | 4.0% |
-<!-- LANGUAGES_SECTION_END -->
-
----
-
 ## Projetos em destaque
 
 ### Sistemas e aplicações
