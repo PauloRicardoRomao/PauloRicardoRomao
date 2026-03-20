@@ -1,10 +1,6 @@
 # Paulo Ricardo Romão
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+e+Mobile;Node.js+%7C+TypeScript+%7C+React+Native;Solu%C3%A7%C3%B5es+sob+medida+para+empresas+e+profissionais" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/PauloRicardoRomao">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
