@@ -70,7 +70,33 @@ Sou desenvolvedor com foco em aplicações web e mobile, APIs e soluções perso
 ## Linguagens por repositório
 
 <!-- LANGUAGES_SECTION_START -->
-Carregando métricas...
+<p align="left">
+  <strong>Total de repositórios analisados:</strong> 25
+</p>
+
+**1. Python** — 8 repositório(s) (32.0%)  
+`██████░░░░░░░░░░░░░░`
+
+**2. CSS** — 6 repositório(s) (24.0%)  
+`█████░░░░░░░░░░░░░░░`
+
+**3. JavaScript** — 3 repositório(s) (12.0%)  
+`██░░░░░░░░░░░░░░░░░░`
+
+**4. Java** — 2 repositório(s) (8.0%)  
+`██░░░░░░░░░░░░░░░░░░`
+
+**5. Jupyter Notebook** — 2 repositório(s) (8.0%)  
+`██░░░░░░░░░░░░░░░░░░`
+
+**6. Sem linguagem definida** — 2 repositório(s) (8.0%)  
+`██░░░░░░░░░░░░░░░░░░`
+
+**7. TypeScript** — 1 repositório(s) (4.0%)  
+`█░░░░░░░░░░░░░░░░░░░`
+
+**8. HTML** — 1 repositório(s) (4.0%)  
+`█░░░░░░░░░░░░░░░░░░░`
 <!-- LANGUAGES_SECTION_END -->
 
 ---
