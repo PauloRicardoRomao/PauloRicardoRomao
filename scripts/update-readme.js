@@ -52,16 +52,15 @@ function buildLanguageRanking(repos) {
   }
 
   const sorted = Object.entries(languageCount).sort((a, b) => b[1] - a[1]);
-
   const totalRepos = repos.length;
 
-  const lines = sorted.map(([language, count], index) => {
-    const percent = ((count / totalRepos) * 100).toFixed(1);
-    const barLength = Math.round((count / totalRepos) * 20);
-    const bar = "█".repeat(barLength) + "░".repeat(20 - barLength);
+  if (totalRepos === 0) {
+    return "Nenhum repositório público encontrado.";
+  }
 
-    return `**${index + 1}. ${language}** — ${count} repositório(s) (${percent}%)  
-\`${bar}\``;
+  const rows = sorted.map(([language, count], index) => {
+    const percent = ((count / totalRepos) * 100).toFixed(1);
+    return `| ${index + 1} | ${language} | ${count} | ${percent}% |`;
   });
 
   return `
@@ -69,7 +68,9 @@ function buildLanguageRanking(repos) {
   <strong>Total de repositórios analisados:</strong> ${totalRepos}
 </p>
 
-${lines.join("\n\n")}
+| # | Linguagem | Repositórios | Percentual |
+|---|-----------|--------------|------------|
+${rows.join("\n")}
 `.trim();
 }
 
