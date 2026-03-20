@@ -8,10 +8,10 @@
   <a href="https://github.com/PauloRicardoRomao">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:SEUEMAILAQUI">
+  <a href="mailto:pauloromao.dev2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-0A66C2?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/">
+  <a href="www.linkedin.com/in/paulo-ricardo-romão-29535316b">
     <img src="https://img.shields.io/badge/LinkedIn-Profissional-0077B5?style=for-the-badge&logo=linkedin">
   </a>
 </p>
@@ -20,25 +20,34 @@
 
 ## Sobre mim
 
-Sou desenvolvedor com foco em aplicações web e mobile, APIs, automação de processos e soluções personalizadas para empresas e profissionais.
+Sou desenvolvedor com foco em aplicações web e mobile, APIs e soluções personalizadas para empresas e profissionais.
 
-Atualmente concentro meus estudos e projetos em:
+## Atualmente concentro meus estudos e projetos em
+
+### Back-end
 - Node.js
+- JavaScript
 - TypeScript
 - Express
-- Sequelize
+- Python
+
+### Mobile
 - React Native
+
+### Banco de Dados
 - MySQL
-- Firebase
+- SQL Server
+
+### ORM / Persistência
+- Sequelize
 
 ---
 
 ## Stack principal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,vue,mysql,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,reactnative,python,delphi,mysql,sqlserver,git,github" />
 </p>
-
 ---
 
 ## Estatísticas
