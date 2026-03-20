@@ -22,27 +22,6 @@
 
 Sou desenvolvedor com foco em aplicações web e mobile, APIs e soluções personalizadas para empresas e profissionais.
 
-## Atualmente concentro meus estudos e projetos em
-
-### Back-end
-- Node.js
-- JavaScript
-- TypeScript
-- Express
-- Python
-
-### Mobile
-- React Native
-
-### Banco de Dados
-- MySQL
-- SQL Server
-
-### ORM / Persistência
-- Sequelize
-
----
-
 ## Stack principal
 
 ### Linguagens e desenvolvimento
@@ -105,6 +84,6 @@ Este perfil reúne meus estudos, projetos práticos e soluções voltadas a dese
 
 ## Contato
 
-- Email: `SEUEMAILAQUI`
-- LinkedIn: `SEU-LINKEDIN-AQUI`
+- Email: `pauloromao.dev2020@gmail.com`
+- LinkedIn: `www.linkedin.com/in/paulo-ricardo-romão-29535316b`
 - GitHub: `github.com/PauloRicardoRomao`
