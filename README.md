@@ -66,4 +66,3 @@ Sou desenvolvedor com foco em aplicações web e mobile, APIs e soluções perso
 ### Objetivo do perfil
 Este perfil reúne meus estudos, projetos práticos e soluções voltadas a desenvolvimento web, mobile e automação.
 
----
