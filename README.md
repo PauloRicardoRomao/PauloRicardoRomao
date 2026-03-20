@@ -6,22 +6,21 @@
 
 <p align="center">
   <a href="https://github.com/PauloRicardoRomao">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:pauloromao.dev2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-0A66C2?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/paulo-ricardo-romão-29535316b">
-    <img src="https://img.shields.io/badge/LinkedIn-Profissional-0077B5?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://rmtisolucoesinteligentes.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfólio-Site-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/RMTI-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://pauloricardoromao.github.io/meu-portfolio-online/">
-    <img src="https://img.shields.io/badge/Portfólio-Site-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## Sobre mim
