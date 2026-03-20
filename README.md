@@ -15,12 +15,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://rmtisolucoesinteligentes.netlify.app/">
-    <img src="https://img.shields.io/badge/RMTI-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/RMTI-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://pauloricardoromao.github.io/meu-portfolio-online/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=homepage&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## Sobre mim
