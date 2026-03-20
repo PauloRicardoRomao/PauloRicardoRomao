@@ -11,7 +11,7 @@
   <a href="mailto:pauloromao.dev2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-0A66C2?style=for-the-badge&logo=gmail">
   </a>
-  <a href="www.linkedin.com/in/paulo-ricardo-romão-29535316b">
+  <a href="https://www.linkedin.com/in/paulo-ricardo-romão-29535316b">
     <img src="https://img.shields.io/badge/LinkedIn-Profissional-0077B5?style=for-the-badge&logo=linkedin">
   </a>
 </p>
@@ -45,10 +45,33 @@ Sou desenvolvedor com foco em aplicações web e mobile, APIs e soluções perso
 
 ## Stack principal
 
+### Linguagens e desenvolvimento
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,reactnative,python,delphi,mysql,sqlserver,git,github" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python" />
 </p>
----
+
+### Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Front-end e mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### Banco de dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=embarcadero&logoColor=white" />
+</p>
 
 ## Estatísticas
 
