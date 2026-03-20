@@ -25,7 +25,7 @@ jobs:
         env:
           GH_USERNAME: PauloRicardoRomao
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/update-profile.js
+        run: node scripts/update-readme.js
 
       - name: Commitar alterações
         run: |
