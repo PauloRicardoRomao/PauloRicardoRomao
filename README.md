@@ -63,21 +63,7 @@ Sou desenvolvedor com foco em aplicações web e mobile, APIs e soluções perso
 
 ---
 
-## Projetos em destaque
-
-### Sistemas e aplicações
-- Sistema de gestão e agendamento para negócios
-- APIs REST com Node.js, Express e TypeScript
-- Aplicações mobile com React Native
-- Landing pages e sites institucionais
-
 ### Objetivo do perfil
 Este perfil reúne meus estudos, projetos práticos e soluções voltadas a desenvolvimento web, mobile e automação.
 
 ---
-
-## Contato
-
-- Email: `pauloromao.dev2020@gmail.com`
-- LinkedIn: `www.linkedin.com/in/paulo-ricardo-romão-29535316b`
-- GitHub: `github.com/PauloRicardoRomao`
