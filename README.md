@@ -54,13 +54,6 @@ Sou desenvolvedor com foco em aplicações web e mobile, APIs e soluções perso
   <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=embarcadero&logoColor=white" />
 </p>
 
-## Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloRicardoRomao&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRicardoRomao&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
 ---
 
 ### Objetivo do perfil
