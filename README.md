@@ -11,9 +11,6 @@
   <a href="https://rmtisolucoesinteligentes.netlify.app/">
     <img src="https://img.shields.io/badge/RMTI-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://pauloricardoromao.github.io/meu-portfolio-online/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=homepage&logoColor=white" />
-  </a>
 </p>
 
 ## Stack principal
@@ -35,6 +32,5 @@
 
 ---
 
-### Objetivo do perfil
 Este perfil reúne meus estudos, projetos práticos e soluções voltadas a desenvolvimento web, mobile e automação.
 
