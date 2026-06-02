@@ -19,19 +19,18 @@
 </p>
 
 ## Stack principal
-
-### Linguagens e desenvolvimento
 <p>
+  <img src="https://skillicons.dev/icons?i=js,ts" />
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://skillicons.dev/icons?i=ts,js,python" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=embarcadero&logoColor=white" />
+</p>
+<p>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
-
-### Ferramentas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
