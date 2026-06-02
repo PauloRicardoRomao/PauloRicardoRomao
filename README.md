@@ -18,32 +18,15 @@
   </a>
 </p>
 
----
-
-## Sobre mim
-
-Sou desenvolvedor com foco em aplicações web e mobile, APIs e soluções personalizadas para empresas e profissionais.
-
 ## Stack principal
 
 ### Linguagens e desenvolvimento
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python" />
-</p>
-
-### Back-end
-<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Front-end e mobile
-<p>
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### Banco de dados
-<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python" />
+  <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=embarcadero&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
@@ -51,7 +34,6 @@ Sou desenvolvedor com foco em aplicações web e mobile, APIs e soluções perso
 ### Ferramentas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=embarcadero&logoColor=white" />
 </p>
 
 ---
