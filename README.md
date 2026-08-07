@@ -13,24 +13,7 @@
   </a>
 </p>
 
-## Stack principal
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=embarcadero&logoColor=white" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
 ---
 
-Este perfil reúne meus estudos, projetos práticos e soluções voltadas a desenvolvimento web, mobile e automação.
+Este perfil reúne projetos, estudos e experimentos em desenvolvimento web, mobile e automação, além de servir como registro da minha evolução, das tecnologias que venho explorando e das coisas que gosto de construir.
 
